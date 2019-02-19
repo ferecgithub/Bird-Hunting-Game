@@ -79,10 +79,10 @@ public class Game extends JPanel implements KeyListener,ActionListener{
     }
     public Game() {
         try {
-            hunter = ImageIO.read(new FileImageInputStream(new File("hunter.png")));
-            bullet = ImageIO.read(new FileImageInputStream(new File("bullet.png")));
-            background = ImageIO.read(new FileImageInputStream(new File("background.jpg")));
-            bird = ImageIO.read(new FileImageInputStream(new File("bird.png")));
+            hunter = ImageIO.read(new FileImageInputStream(new File("Images/hunter.png")));
+            bullet = ImageIO.read(new FileImageInputStream(new File("Images/bullet.png")));
+            background = ImageIO.read(new FileImageInputStream(new File("Images/background.jpg")));
+            bird = ImageIO.read(new FileImageInputStream(new File("Images/bird.png")));
             setBackground(Color.GREEN);
             timer.start();
             gameMusic();
