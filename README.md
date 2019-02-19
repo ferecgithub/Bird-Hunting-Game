@@ -11,4 +11,4 @@ A shooter game made with Swing API.
 ### Animated Image of the Game
 ![alt text][logo]
 
-[logo]: https://github.com/ferecgithub/Bird-Hunting-Game/tree/master/Images/BirdHuntGif.gif "Logo Title Text 2"
+[logo]: https://github.com/ferecgithub/Bird-Hunting-Game/blob/master/Images/BirdHuntGif.gif "Bird Hunting Game by Ferec"
